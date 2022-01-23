@@ -1,0 +1,76 @@
+body{
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+
+#a1{
+    background-color: white;    
+    box-shadow: 5px 5px 5px rgb(17, 17, 17);
+    padding-right: 200px;
+    padding-left: 200px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    font-size: 20px;
+    border-radius: 30px;
+    border: 3px solid blue;
+    color: blue;
+    font-family: cursive;
+   
+}
+#a2{
+    background-color: white;    
+    box-shadow: 5px 5px 5px rgb(17, 17, 17);
+    padding-right: 200px;
+    padding-left: 200px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    font-size: 20px;
+    border-radius: 30px;
+    border: 3px solid blue;
+    color: blue;
+    font-family: cursive;
+   
+}
+#a3{
+    background-color: white;    
+    box-shadow: 5px 5px 5px rgb(17, 17, 17);
+    padding-right: 230px;
+    padding-left: 230px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    font-size: 20px;
+    border-radius: 30px;
+    border: 3px solid blue;
+    color: blue;
+    font-family: cursive;
+   
+}
+#a4{
+    background-color: white;    
+    box-shadow: 5px 5px 5px rgb(17, 17, 17);
+    padding-right: 180px;
+    padding-left: 180px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    font-size: 20px;
+    border-radius: 30px;
+    border: 3px solid blue;
+    color: blue;
+    font-family: cursive;
+   
+}
+#a5{
+    background-color: white;    
+    box-shadow: 5px 5px 5px rgb(17, 17, 17);
+    padding-right: 180px;
+    padding-left: 180px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    font-size: 20px;
+    border-radius: 30px;
+    border: 3px solid blue;
+    color: blue;
+    font-family: cursive;
+   text-decoration: none;
+}
